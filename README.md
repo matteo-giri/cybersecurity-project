@@ -7,4 +7,4 @@ Specifically, several significant attacks proposed in the research against Malwa
 
 The report will present the results of the implementation and tests, providing an evaluation of the effectiveness of the attacks and their respective defenses, all contextualized and compared with what was obtained by the authors of the paper.
 
-Read the full report [here](report.pdf)
+Read the full report [here](report.pdf) (in Italian)
